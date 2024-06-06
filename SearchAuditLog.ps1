@@ -1,3 +1,9 @@
+<#
+https://learn.microsoft.com/en-us/purview/audit-log-search-script
+#>
+
+
+
 #Modify the values for the following variables to configure the audit log search.
 $logFile = "C:\Temp\AuditLogsearch.txt"
 $outputFile = "C:\Temp\AuditLogRecords.csv"
